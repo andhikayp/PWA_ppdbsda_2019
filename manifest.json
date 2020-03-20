@@ -1,0 +1,16 @@
+{
+  "name": "PPDB SMPN Kabupaten Sidoarjo 2019",
+  "short_name": "PPDB SMPN SDA 2019",
+  "description": "Aplikasi Pendaftaran Calon Peserta Didik Baru Jenjang SMPN Kabupaten Sidoarjo 2019",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#00897B",
+  "theme_color": "#00897B",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
